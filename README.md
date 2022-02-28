@@ -8,9 +8,9 @@ Coding quiz pertaining to Javascript fundamentals.
 <img width="1512" alt="Screen Shot 2022-02-27 at 10 19 54 PM" src="https://user-images.githubusercontent.com/97936992/155918626-0a28ff4f-58dc-492c-8270-9a5c24e278fc.png">
 
 
-Link URL to deployed app on GitHub
+## Link URL to deployed app on GitHub
+https://malcdiggs.github.io/Code-Quiz-challenge/
 
-
-Link URL to GitHub Repository
+## Link URL to GitHub Repository
 https://github.com/MalcDiggs/Code-Quiz-challenge.git
 
